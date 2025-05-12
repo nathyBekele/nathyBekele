@@ -8,6 +8,24 @@
 
 <table>
   <tr>
+    <td width="50%" style="padding: 20px; text-align: center;">
+      <br>
+      <img src="./afrochat-transparent-bg-logo.svg" alt="AfroChat" width="40%" height="40%" style="margin-bottom: 15px;" />
+      <h3><a href="https://github.com/YourLinkHere" style="text-decoration: none; color: #333; font-weight: bold;">AfroChat</a></h3>
+      <p style="color: #555; font-size: 1rem; line-height: 1.5;">Custom LLM platform for enterprise + public usage, allowing users to switch between models and compare outputs.</p>
+      <ul style="list-style-type: none; padding-left: 0; font-size: 0.9rem; color: #666; line-height: 1.6;">
+        <li><strong style="color: #333;">Live:</strong> <a href="https://afrochat.app" style="color: #1a73e8;">afrochat.ai</a></li>
+        <li><strong style="color: #333;">Stack:</strong> <code>FastAPI</code>, <code>Node.js</code>, <code>React</code>, <code>MongoDB</code>, <code>LangChain</code>, <code>GCP</code></li>
+        <li><strong style="color: #333;">My Contributions:</strong>
+          <ul style="margin-top: 5px;">
+            <li>Backend lead – designed and maintained core logic</li>
+            <li>Conducted code reviews and implemented test harness</li>
+            <li>Built API logic for model switching and logging</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+
     <td width="50%">
       <br>
       <p align="center">
