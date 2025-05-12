@@ -9,12 +9,11 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="./afrochat-transparent-bg-logo.svg" alt="AfroChat" width="50%"/>
+      <img src="./afrochat-transparent-bg-logo.svg" alt="AfroChat" width="50%" align="center"/>
       <h3><a href="https://github.com/YourLinkHere">AfroChat</a></h3>
       <p>Custom LLM platform for enterprise + public usage, allowing users to switch between models and compare outputs.</p>
       <ul>
         <li><strong> Live:</strong> <a href="https://afrochat.app">afrochat.ai</a></li>
-<!--         <li><strong>📝 Blog:</strong> <a href="https://your-blog-link.com/afrochat">Read the case study</a></li> -->
         <li><strong> Stack:</strong> `FastAPI`, `Node.js`, `React`, `MongoDB`, `LangChain`, `GCP`</li>
         <li><strong> My Contributions:</strong>
           <ul>
