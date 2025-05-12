@@ -4,7 +4,7 @@
 </h1>
 
 
-## Featured Projects
+<h1> Featured Projects </h1>
 
 <table>
   <tr>
