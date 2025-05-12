@@ -10,11 +10,11 @@
   <tr>
     <td width="50%" valign="top" style="padding: 20px;">
       <br>
-      <p align="center">
+      <p align="justify-between">
         <img src="./afrochat-transparent-bg-logo.svg" alt="AfroChat Logo" width="40%"/>
         &nbsp;&nbsp;
         <a href="https://afrochat.app" target="_blank" title="Visit Live Site">
-          <img src="https://lottie.host/animated-web-icon.gif" alt="Live Site" width="20%"/>
+          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW40NHBweGkzY3kyNGdxc3lwNGxiem1pcXo0bTRoeDFtNGh1cXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WT5h7PgVSScLLKtMaS/giphy.gif" alt="Live Site" width="20%"/>
         </a>
         &nbsp;&nbsp;
         <a href="https://github.com/YourLinkHere" target="_blank" title="GitHub Repository">
