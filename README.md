@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Natnael Bekele (Nathy) — Software Engineer | Educator
+<h1 align="center"><img src="https://example.com/waving.gif" width="30"/> Hi, I'm Natnael Bekele (Nathy)</h1>
 
 I specialize in **full-stack engineering**, **AI tooling**, and **LLM-based applications**. I lead projects at scale, teach 500+ engineers, and actively build tools that blend impact and innovation.
 
