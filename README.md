@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://your-image-link.com/afrochat.png" alt="AfroChat" width="100%"/>
+      <img src="./afro-git-icon.png" alt="AfroChat" width="100%"/>
       <h3><a href="https://github.com/YourLinkHere">AfroChat</a></h3>
       <p>Custom LLM platform for enterprise + public usage, allowing users to switch between models and compare outputs.</p>
       <ul>
