@@ -1,7 +1,7 @@
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand"/>
+<h1 align="left">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand"/> I'm Natnael(Nathy).
   </br>
-  Welcome to my GitHub profile. I'm Natnael(Nathy).
+  Welcome to my GitHub profile. 
 </h1>
 
 I specialize in **full-stack engineering**, **AI tooling**, and **LLM-based applications**. I lead projects at scale, teach 500+ engineers, and actively build tools that blend impact and innovation.
