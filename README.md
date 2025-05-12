@@ -8,12 +8,19 @@
 
 <table>
   <tr>
-    <br>
     <td width="50%" valign="top" style="padding: 20px;">
+      <br>
       <p align="center">
-        <img src="./afrochat-transparent-bg-logo.svg" alt="AfroChat" width="40%" height="50%" />
+        <img src="./afrochat-transparent-bg-logo.svg" alt="AfroChat Logo" width="60" height="60" />
+        &nbsp;&nbsp;
+        <a href="https://afrochat.app" target="_blank" title="Visit Live Site">
+          <img src="https://img.icons8.com/color/48/external-link.png" alt="Live Site" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/YourLinkHere" target="_blank" title="GitHub Repository">
+          <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Repo" />
+        </a>
       </p>
-      <h3><a href="https://github.com/YourLinkHere">AfroChat</a></h3>
       <p>Custom LLM platform for enterprise + public usage, allowing users to switch between models and compare outputs.</p>
       <ul>
         <li><strong>Live:</strong> <a href="https://afrochat.app">afrochat.ai</a></li>
