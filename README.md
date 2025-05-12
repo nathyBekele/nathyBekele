@@ -4,9 +4,7 @@
 </h1>
 
 <table>
-  <tr> 
-    <p><strong style="font-size: 60px;">Featured Projects</strong></p>
-  </tr>
+  <p><strong style="font-size: 28px;">Featured Projects</strong></p>
   <tr>
     <td width="50%" valign="top" style="padding: 20px;">
       <p align="center">
