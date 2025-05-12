@@ -4,53 +4,81 @@
 </h1>
 
 
-I specialize in **full-stack engineering**, **AI tooling**, and **LLM-based applications**. I lead projects at scale, teach 500+ engineers, and actively build tools that blend impact and innovation.
+## 🚀 Featured Projects
 
----
-
-## Featured Projects
-
-### [AfroChat](https://github.com/YourLinkHere) – Custom LLM Chat Platform for Enterprises & Public Users
-> Built with: `FastAPI`, `Node.js`, `React`, `MongoDB`, `LangChain`, `GCP`  
-> AfroChat helps businesses deploy domain-specific LLMs and provides a unified interface to compare public models.  
-📌 Roles: Backend Lead | PR Reviews | Manual Testing  
-🌟 **Key features**: LLM switching, session chat logs, usage metrics  
-📖 [Case Study / Blog](https://your-blog-link.com/afrochat)
-
----
-
-### [Adot](https://github.com/YourLinkHere) – Pregnancy Tracking & Doctor Support App
-> Built with: `Next.js`, `Node.js`, `Flutter`, `MongoDB`, `Firebase`, `Django`  
-> An all-in-one platform for pregnancy tracking, doctor messaging, and educational content.  
-📌 Roles: Infra Optimization | Code Review | Accuracy Checks  
-🚀 **Features**: Doctor-patient chat, daily tips, symptom logs  
-📖 [Read More](https://your-blog-link.com/adot)
-
----
-
-### [AI Recruiter](https://github.com/YourLinkHere) – Smart Resume Matcher + Interview Auto-Inviter
-> Built with: `Python`, `LangChain`, `Prompt Engineering`, `Streamlit`  
-> Parses resumes and job descriptions, evaluates fits, and sends interview invites above a threshold score.  
-📌 Roles: End-to-End Design | Grading System | Matching Algorithm  
-📊 Relative + Absolute Scoring | Interview Invite Draft Generator  
-📝 [Blog post](https://your-blog-link.com/ai-recruiter)
-
----
-
-### [RateEat](https://github.com/YourLinkHere) – Restaurant Rating & AI Food Chatbot
-> Built with: `FastAPI`, `Node.js`, `React`, `Firebase`, `MongoDB`  
-> Over 1,000+ users rated dishes and interacted with a smart food bot.  
-📌 Roles: GitHub Manager | Backend Integrations | Deployment  
-🌐 [Demo](https://your-demo-link.com)
-
----
-
-## Highlights
-- **Head of Education**, [A2SV](https://a2sv.org) — taught 500+ engineers, helped 60+ land jobs at Google, Bloomberg, etc.
-- Built real-world AI tools using `LangChain`, `OpenAI`, `RAG`, and `GCP`
-- Competitive programming coach | Passionate about CS Education
-
----
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://your-image-link.com/afrochat.png" alt="AfroChat" width="100%"/>
+      <h3><a href="https://github.com/YourLinkHere">AfroChat</a></h3>
+      <p>Custom LLM platform for enterprise + public usage, allowing users to switch between models and compare outputs.</p>
+      <ul>
+        <li><strong>🔗 Live:</strong> <a href="https://afrochat.ai">afrochat.ai</a></li>
+        <li><strong>📝 Blog:</strong> <a href="https://your-blog-link.com/afrochat">Read the case study</a></li>
+        <li><strong>🛠️ Stack:</strong> FastAPI, Node.js, React, MongoDB, LangChain, GCP</li>
+        <li><strong>✅ My role:</strong>
+          <ul>
+            <li>Backend lead – designed and maintained core logic</li>
+            <li>Conducted code reviews and implemented test harness</li>
+            <li>Built API logic for model switching and logging</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="https://your-image-link.com/adot.png" alt="Adot" width="100%"/>
+      <h3><a href="https://github.com/YourLinkHere">Adot</a></h3>
+      <p>Pregnancy support platform with real-time doctor chat, symptom tracking, and personalized guidance.</p>
+      <ul>
+        <li><strong>🔗 Live:</strong> <a href="https://adot.health">adot.health</a></li>
+        <li><strong>📝 Blog:</strong> <a href="https://your-blog-link.com/adot">Read the blog</a></li>
+        <li><strong>🛠️ Stack:</strong> Next.js, Flutter, Node.js, Firebase, MongoDB, Django</li>
+        <li><strong>✅ My role:</strong>
+          <ul>
+            <li>Infra lead – handled optimization and code structure</li>
+            <li>Implemented and reviewed key features for accuracy</li>
+            <li>Led testing and metrics validation for sensitive features</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://your-image-link.com/ai-recruiter.png" alt="AI Recruiter" width="100%"/>
+      <h3><a href="https://github.com/YourLinkHere">AI Recruiter</a></h3>
+      <p>AI-powered resume matcher with auto-interview invite feature and job-candidate scoring system.</p>
+      <ul>
+        <li><strong>🔗 Demo:</strong> <a href="https://airecruiter.ai">airecruiter.ai</a></li>
+        <li><strong>📝 Blog:</strong> <a href="https://your-blog-link.com/ai-recruiter">Under the hood</a></li>
+        <li><strong>🛠️ Stack:</strong> Python, LangChain, Streamlit, OpenAI, SQLite</li>
+        <li><strong>✅ My role:</strong>
+          <ul>
+            <li>Built full backend logic for scoring and invites</li>
+            <li>Prompt engineered LLM evaluations</li>
+            <li>Implemented schema + scoring recalibration logic</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="https://your-image-link.com/rateeat.png" alt="RateEat" width="100%"/>
+      <h3><a href="https://github.com/YourLinkHere">RateEat</a></h3>
+      <p>Restaurant rating platform with chatbot-based dish feedback and over 1,000 users.</p>
+      <ul>
+        <li><strong>🔗 Demo:</strong> <a href="https://rateeat.com">rateeat.com</a></li>
+        <li><strong>🛠️ Stack:</strong> FastAPI, Node.js, React, Firebase, MongoDB</li>
+        <li><strong>✅ My role:</strong>
+          <ul>
+            <li>Managed GitHub repo, handled CI/CD & deployments</li>
+            <li>Built core API logic and data validation layer</li>
+            <li>Integrated the chatbot with LLM APIs</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Tools & Tech I Use Often
 `TypeScript` · `JavaScript` · `Python` · `FastAPI` · `React` · `Next.js`  
