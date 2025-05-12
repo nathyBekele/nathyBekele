@@ -5,7 +5,7 @@
 
 <table>
   <tr> 
-    <p><strong style="font-size: 30px;">Featured Projects</strong></p>
+    <p><strong style="font-size: 60px;">Featured Projects</strong></p>
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding: 20px;">
