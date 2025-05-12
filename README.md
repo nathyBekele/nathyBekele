@@ -10,7 +10,7 @@
   <tr>
     <td width="50%" valign="top" style="padding: 20px;">
       <br>
-      <p align="justify-between">
+      <p align="center">
         <img src="./afrochat-transparent-bg-logo.svg" alt="AfroChat Logo" width="40%"/>
         &nbsp;&nbsp;
         <a href="https://afrochat.app" target="_blank" title="Visit Live Site">
