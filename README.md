@@ -9,7 +9,6 @@
 <table>
   <tr>
     <td width="50%" valign="top" style="padding: 20px;">
-      <br>
       <p align="center">
         <a href="https://github.com/YourLinkHere" target="_blank" title="GitHub Repository">
           <img src="./afrochat-transparent-bg-logo.svg" alt="Repo Link" width="50%"/>
