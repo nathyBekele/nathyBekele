@@ -8,11 +8,11 @@
 
 <table>
   <tr>
+    <br>
     <td width="50%" valign="top" style="padding: 20px;">
       <p align="center">
         <img src="./afrochat-transparent-bg-logo.svg" alt="AfroChat" width="40%" height="50%" />
       </p>
-      <br>
       <h3><a href="https://github.com/YourLinkHere">AfroChat</a></h3>
       <p>Custom LLM platform for enterprise + public usage, allowing users to switch between models and compare outputs.</p>
       <ul>
