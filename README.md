@@ -4,7 +4,7 @@
 </h1>
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -13,10 +13,10 @@
       <h3><a href="https://github.com/YourLinkHere">AfroChat</a></h3>
       <p>Custom LLM platform for enterprise + public usage, allowing users to switch between models and compare outputs.</p>
       <ul>
-        <li><strong>🔗 Live:</strong> <a href="https://afrochat.ai">afrochat.ai</a></li>
-        <li><strong>📝 Blog:</strong> <a href="https://your-blog-link.com/afrochat">Read the case study</a></li>
-        <li><strong>🛠️ Stack:</strong> FastAPI, Node.js, React, MongoDB, LangChain, GCP</li>
-        <li><strong>✅ My role:</strong>
+        <li><strong> Live:</strong> <a href="https://afrochat.app">afrochat.ai</a></li>
+<!--         <li><strong>📝 Blog:</strong> <a href="https://your-blog-link.com/afrochat">Read the case study</a></li> -->
+        <li><strong> Stack:</strong> `FastAPI`, `Node.js`, `React`, `MongoDB`, `LangChain`, `GCP`</li>
+        <li><strong> My Contributions:</strong>
           <ul>
             <li>Backend lead – designed and maintained core logic</li>
             <li>Conducted code reviews and implemented test harness</li>
