@@ -11,14 +11,12 @@
     <td width="50%" valign="top" style="padding: 20px;">
       <br>
       <p align="center">
-        <img src="./afrochat-transparent-bg-logo.svg" alt="AfroChat Logo" width="40%"/>
-        &nbsp;&nbsp;
         <a href="https://afrochat.app" target="_blank" title="Visit Live Site">
           <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW40NHBweGkzY3kyNGdxc3lwNGxiem1pcXo0bTRoeDFtNGh1cXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WT5h7PgVSScLLKtMaS/giphy.gif" alt="Live Site" width="20%"/>
         </a>
         &nbsp;&nbsp;
         <a href="https://github.com/YourLinkHere" target="_blank" title="GitHub Repository">
-          <img src="https://lottie.host/animated-github-icon.gif" alt="GitHub Repo" width="20%"/>
+          <img src="./afrochat-transparent-bg-logo.svg" alt="Repo Link" width="50%"/>
         </a>
       </p>
       <p>Custom LLM platform for enterprise + public usage, allowing users to switch between models and compare outputs.</p>
