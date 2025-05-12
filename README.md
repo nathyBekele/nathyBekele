@@ -8,35 +8,17 @@
 
 <table>
   <tr>
-    <td width="50%" style="padding: 20px; text-align: center;">
-      <br>
-      <img src="./afrochat-transparent-bg-logo.svg" alt="AfroChat" width="40%" height="40%" style="margin-bottom: 15px;" />
-      <h3><a href="https://github.com/YourLinkHere" style="text-decoration: none; color: #333; font-weight: bold;">AfroChat</a></h3>
-      <p style="color: #555; font-size: 1rem; line-height: 1.5;">Custom LLM platform for enterprise + public usage, allowing users to switch between models and compare outputs.</p>
-      <ul style="list-style-type: none; padding-left: 0; font-size: 0.9rem; color: #666; line-height: 1.6;">
-        <li><strong style="color: #333;">Live:</strong> <a href="https://afrochat.app" style="color: #1a73e8;">afrochat.ai</a></li>
-        <li><strong style="color: #333;">Stack:</strong> <code>FastAPI</code>, <code>Node.js</code>, <code>React</code>, <code>MongoDB</code>, <code>LangChain</code>, <code>GCP</code></li>
-        <li><strong style="color: #333;">My Contributions:</strong>
-          <ul style="margin-top: 5px;">
-            <li>Backend lead – designed and maintained core logic</li>
-            <li>Conducted code reviews and implemented test harness</li>
-            <li>Built API logic for model switching and logging</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-
-    <td width="50%">
-      <br>
+    <td width="50%" valign="top" style="padding: 20px;">
       <p align="center">
         <img src="./afrochat-transparent-bg-logo.svg" alt="AfroChat" width="40%" height="50%" />
       </p>
+      <br>
       <h3><a href="https://github.com/YourLinkHere">AfroChat</a></h3>
       <p>Custom LLM platform for enterprise + public usage, allowing users to switch between models and compare outputs.</p>
       <ul>
-        <li><strong> Live:</strong> <a href="https://afrochat.app">afrochat.ai</a></li>
-        <li><strong> Stack:</strong> `FastAPI`, `Node.js`, `React`, `MongoDB`, `LangChain`, `GCP`</li>
-        <li><strong> My Contributions:</strong>
+        <li><strong>Live:</strong> <a href="https://afrochat.app">afrochat.ai</a></li>
+        <li><strong>Stack:</strong> FastAPI, Node.js, React, MongoDB, LangChain, GCP</li>
+        <li><strong>My Contributions:</strong>
           <ul>
             <li>Backend lead – designed and maintained core logic</li>
             <li>Conducted code reviews and implemented test harness</li>
@@ -45,8 +27,11 @@
         </li>
       </ul>
     </td>
-    <td width="50%">
-      <img src="https://your-image-link.com/adot.png" alt="Adot" width="100%"/>
+    <td width="50%" valign="top" style="padding: 20px;">
+      <p align="center">
+        <img src="https://your-image-link.com/adot.png" alt="Adot" width="100%"/>
+      </p>
+      <br>
       <h3><a href="https://github.com/YourLinkHere">Adot</a></h3>
       <p>Pregnancy support platform with real-time doctor chat, symptom tracking, and personalized guidance.</p>
       <ul>
@@ -64,8 +49,11 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="https://your-image-link.com/ai-recruiter.png" alt="AI Recruiter" width="100%"/>
+    <td width="50%" valign="top" style="padding: 20px;">
+      <p align="center">
+        <img src="https://your-image-link.com/ai-recruiter.png" alt="AI Recruiter" width="100%"/>
+      </p>
+      <br>
       <h3><a href="https://github.com/YourLinkHere">AI Recruiter</a></h3>
       <p>AI-powered resume matcher with auto-interview invite feature and job-candidate scoring system.</p>
       <ul>
@@ -81,8 +69,11 @@
         </li>
       </ul>
     </td>
-    <td width="50%">
-      <img src="https://your-image-link.com/rateeat.png" alt="RateEat" width="100%"/>
+    <td width="50%" valign="top" style="padding: 20px;">
+      <p align="center">
+        <img src="https://your-image-link.com/rateeat.png" alt="RateEat" width="100%"/>
+      </p>
+      <br>
       <h3><a href="https://github.com/YourLinkHere">RateEat</a></h3>
       <p>Restaurant rating platform with chatbot-based dish feedback and over 1,000 users.</p>
       <ul>
