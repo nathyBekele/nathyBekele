@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Natnael Bekele (Nathy) — Software Engineer | AI Enthusiast | Educator 🇪🇹
+# 👋 Hi, I'm Natnael Bekele (Nathy) — Software Engineer | Educator
 
-🔭 I specialize in **full-stack engineering**, **AI tooling**, and **LLM-based applications**.  
-🎯 I lead projects at scale, teach 500+ engineers, and actively build tools that blend impact and innovation.
+I specialize in **full-stack engineering**, **AI tooling**, and **LLM-based applications**. I lead projects at scale, teach 500+ engineers, and actively build tools that blend impact and innovation.
 
 ---
 
