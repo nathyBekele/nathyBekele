@@ -83,17 +83,3 @@
 ## Tools & Tech I Use Often
 `TypeScript` · `JavaScript` · `Python` · `FastAPI` · `React` · `Next.js`  
 `LangChain` · `MongoDB` · `PostgreSQL` · `Docker` · `GCP` · `Firebase`
-
----
-
-## Latest Blog Posts
-- [Why AfroChat Matters: Democratizing AI for African Businesses](https://your-blog.com/afrochat)
-- [How We Built Adot with Accuracy at Its Core](https://your-blog.com/adot)
-- [LLM Matching: Under the Hood of the AI Recruiter Project](https://your-blog.com/ai-recruiter)
-
----
-
-## 📫 Let’s Connect
-- [LinkedIn](https://linkedin.com/in/nathyBekele)
-- [Twitter](https://twitter.com/yourhandle)
-- Email: **your.email@gmail.com**
