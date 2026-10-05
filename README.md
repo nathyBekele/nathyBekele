@@ -4,13 +4,6 @@
   <a href="https://nathybekele.github.io/github-traffic-archive/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathyBekele/github-traffic-archive/main/assets/img/top_languages_dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathyBekele/github-traffic-archive/main/assets/img/top_languages_light.svg"><img alt="Most Used Languages" src="https://raw.githubusercontent.com/nathyBekele/github-traffic-archive/main/assets/img/top_languages_dark.svg" width="32.5%"></picture></a>
 </p>
 
-<p align="center">
-  To view real-time repository traffic, clones, and visitor analytics, check it out here:
-  <a href="https://nathybekele.github.io/github-traffic-archive/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathyBekele/github-traffic-archive/main/assets/img/dashboard_button_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathyBekele/github-traffic-archive/main/assets/img/dashboard_button_light.svg">
-      <img alt="Live Dashboard" src="https://raw.githubusercontent.com/nathyBekele/github-traffic-archive/main/assets/img/dashboard_button_dark.svg" height="26" align="center">
-    </picture>
-  </a>
+<p align="left">
+  To view real-time repository traffic, clones, and visitor analytics, check it out <a href="https://nathybekele.github.io/github-traffic-archive/">here</a>.
 </p>
