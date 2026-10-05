@@ -5,5 +5,5 @@
 </p>
 
 <p align="left">
-  To view real-time repository traffic, clones, and visitor analytics, check it out <a href="https://nathybekele.github.io/github-traffic-archive/">here</a>.
+  To view real-time repository traffic, clones, and visitor analytics, check out the <a href="https://nathybekele.github.io/github-traffic-archive/">Traffic Archive Dashboard</a>.
 </p>
