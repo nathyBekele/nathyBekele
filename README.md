@@ -3,7 +3,3 @@
   <a href="https://nathybekele.github.io/github-traffic-archive/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathyBekele/nathyBekele/main/assets/img/github_metrics_dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathyBekele/nathyBekele/main/assets/img/github_metrics_light.svg"><img alt="Repositories & Traffic" src="https://raw.githubusercontent.com/nathyBekele/nathyBekele/main/assets/img/github_metrics_dark.svg" width="32.5%"></picture></a>
   <a href="https://nathybekele.github.io/github-traffic-archive/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathyBekele/nathyBekele/main/assets/img/top_languages_dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathyBekele/nathyBekele/main/assets/img/top_languages_light.svg"><img alt="Most Used Languages" src="https://raw.githubusercontent.com/nathyBekele/nathyBekele/main/assets/img/top_languages_dark.svg" width="32.5%"></picture></a>
 </p>
-
-<p align="left">
-  To view real-time repository traffic, clones, and visitor analytics, check out the <a href="https://nathybekele.github.io/github-traffic-archive/">Traffic Archive Dashboard</a>.
-</p>
